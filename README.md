@@ -1,5 +1,6 @@
 # rotation-method-for-cluster-dynamical-state
 This product is protected by CC BY-NC.
+
 This repository includes the source code of the paper, "New observational recipes for measuring dynamical state of galaxy clusters" Kim et al 2024.
 In the arranged folder, there are two to four dimensional rotation matrix method python codes with test data of observational (HeCS) and simulation data (N_cluster run simulation). Detailed information about the rotation method can be found in the paper.
 
